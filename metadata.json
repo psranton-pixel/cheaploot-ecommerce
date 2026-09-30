@@ -1,0 +1,6 @@
+{
+  "name": "CheapLoot",
+  "description": "Australia's national discount retailer for auto parts, tools, tech, entertainment, appliances & clearance loot with AI search, vehicle fitment & warehouse command centre.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
